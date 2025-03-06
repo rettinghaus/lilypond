@@ -382,7 +382,7 @@ git bisect bad
 
 
 LilyPond comes with a complete set of regtests for the
-@uref{http://www.musicxml.org/,MusicXML} language.  Originally
+@uref{https://w3c.github.io/musicxml/,MusicXML} language.  Originally
 developed to test @samp{musicxml2ly}, these regression tests
 can be used to test any MusicXML implementation.
 

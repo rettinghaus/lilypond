@@ -5527,7 +5527,7 @@ Fodor. (@ref{Changes},
 
 @newsItem
 @subheading LilyPond 2.7.21 is out - @emph{December 5, 2005}
-Saint Nicholas brings you ... a @uref{http://www.musicxml.org/,MusicXML} convertor for LilyPond!
+Saint Nicholas brings you ... a @uref{https://w3c.github.io/musicxml/,MusicXML} convertor for LilyPond!
 The convertor is basic, but working. Check out the @uref{http://www.lilypond-design.com/sponsor/open-features.html#inputfilter,
 LilyPond Software Design} pages for MusicXML features that can be
 sponsored.
